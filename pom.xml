@@ -9,7 +9,7 @@
 
 	<groupId>nz.ac.auckland.common</groupId>
 	<artifactId>common-javascript</artifactId>
-	<version>3.3</version>
+	<version>3.4-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Javascript Common</name>
@@ -21,7 +21,7 @@
 		<url>https://github.com/uoa-group-applications/common-javascript</url>
 		<connection>scm:git:https://github.com/uoa-group-applications/common-javascript.git</connection>
 		<developerConnection>scm:git:git@github.com:uoa-group-applications/common-javascript.git</developerConnection>
-	  <tag>common-javascript-3.3</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 </project>
